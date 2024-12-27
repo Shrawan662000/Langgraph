@@ -1,0 +1,7 @@
+langchain==0.3.13 
+langchain-core==0.3.28
+langchain-openai==0.2.14
+langchain-community==0.3.13
+python-dotenv
+bs4==0.0.2
+langgraph==0.2.60
